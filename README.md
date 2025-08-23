@@ -7,3 +7,7 @@ Goals
 - Suitable context for Claude
 - Repository of things **I understand**
 - Following my usual textbook approach (one step builds on previous steps), provide HQ information to other people
+
+## Libraries
+
+- [Wiremock](./libs/wiremock.md)
