@@ -66,8 +66,8 @@ Test with something like this
 
 ```
 (comment
-  (with-wiremock (clj-http.client/request {:url (str "http://localhost:" wiremock-port wiremock-path),
-                                           :method "get"})))
+  (with-wiremock #(clj-http.client/request {:url (str "http://localhost:" wiremock-port wiremock-path),
+                                            :method "get"})))
 ```
 
 ## Troubleshooting
