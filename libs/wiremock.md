@@ -12,7 +12,7 @@ Then, in some namespace:
 
 ```clojure
 (:import com.github.tomakehurst.wiremock.WireMockServer
-           com.github.tomakehurst.wiremock.core.WireMockConfiguration))
+         com.github.tomakehurst.wiremock.core.WireMockConfiguration))
 
 (comment
   (def config (new WireMockConfiguration))
