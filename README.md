@@ -14,5 +14,5 @@ Goals
 
 ### MCPs
 
-- [Asana](./mcps/asana.md) for Claude Code
-- [Notion](./mcps/notion.md) for Claude Code
+- [Asana](./mcps/asana.md) Asana for Claude Code
+- [Notion](./mcps/notion.md) Notion for Claude Code
