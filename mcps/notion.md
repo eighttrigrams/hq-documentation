@@ -1,4 +1,4 @@
-# Notion for Claude Code
+# Notion MCP for Claude Code
 
 Frist create a *Notion* integration (basically the setting up of a token) under https://www.notion.so/profile/integrations
 
