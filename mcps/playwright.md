@@ -1,4 +1,4 @@
-# Playwright for Claude Code
+# Playwright MCP for Claude Code
 
 Run
 
