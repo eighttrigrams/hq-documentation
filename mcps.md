@@ -1,6 +1,6 @@
 # MCPs
 
-# Asana MCP for Claude Code
+## Asana MCP for Claude Code
 
 For Claude Code/Desktop (Free):
 
@@ -26,7 +26,7 @@ But community/local MCP servers work fine with free Claude Desktop/Code because 
 The Enterprise requirement only applies to the official hosted Asana MCP server, not to local community implementations!
 
 
-# Notion MCP for Claude Code
+## Notion MCP for Claude Code
 
 Frist create a *Notion* integration (basically the setting up of a token) under https://www.notion.so/profile/integrations
 
