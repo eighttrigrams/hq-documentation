@@ -12,8 +12,6 @@ Goals
 
 - [Wiremock](./libs/wiremock.md)
 
-### MCPs
+### Misc
 
-- [Asana](./mcps/asana.md) Asana for Claude Code
-- [Notion](./mcps/notion.md) Notion for Claude Code
-- [Playwright](./mcps/playwright.md) Playwright for Claude Code
+- [mcps](./mcps.md) MCPs for Claude Code
