@@ -16,3 +16,4 @@ Goals
 
 - [Asana](./mcps/asana.md) Asana for Claude Code
 - [Notion](./mcps/notion.md) Notion for Claude Code
+- [Playwright](./mcp/playwright.md) Playwright for Claude Code
