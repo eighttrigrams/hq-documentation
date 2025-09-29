@@ -44,5 +44,5 @@ Run
 
 ```bash
 $ npx playwright install
-$ claude mcp add playwright -- cmd /c npx -y @playwright/mcp
+$ claude mcp add playwright -- npx -y @playwright/mcp
 ```
