@@ -46,3 +46,8 @@ Run
 $ npx playwright install
 $ claude mcp add playwright -- npx -y @playwright/mcp
 ```
+
+## Chrome DevTools MCP
+
+## Clojure MCP
+
