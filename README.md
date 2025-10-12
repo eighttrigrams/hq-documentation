@@ -1,8 +1,5 @@
 # High Quality Documentation
 
-See also
-- [eighttrigrams/clojure-claude-and-mcp-knowledge](https://github.com/eighttrigrams/clojure-claude-and-mcp-knowledge/blob/master/README.md)
-
 Goals
 - Suitable context for Claude
 - Repository of things **I understand**
@@ -15,3 +12,4 @@ Goals
 ### Misc
 
 - [mcps](./mcps.md) MCPs for Claude Code
+  - See also [eighttrigrams/clojure-claude-and-mcp-knowledge](https://github.com/eighttrigrams/clojure-claude-and-mcp-knowledge/blob/master/README.md)
