@@ -42,7 +42,7 @@ Run
 
 ```bash
 $ npx playwright install
-$ claude mcp add playwright -- cmd /c npx -y @playwright/mcp
+$ claude mcp add playwright -- npx -y @playwright/mcp
 ```
 
 To run it headless, use the `--headless` in your `~/.claude.json`, like this:
@@ -63,3 +63,7 @@ To run it headless, use the `--headless` in your `~/.claude.json`, like this:
 
 If you want to run a certain chromium profiile, you can fire it up once non headless, sign into
 your google account, and then afterwards run it headless.
+## Chrome DevTools MCP
+
+## Clojure MCP
+
