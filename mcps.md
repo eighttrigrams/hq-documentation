@@ -4,7 +4,6 @@
 
 For Claude Code/Desktop (Free):
 
-
 Community MCP Server
 
 ```
@@ -24,7 +23,6 @@ The official Asana MCP server (https://mcp.asana.com/sse) requires Enterprise be
 - Has admin controls for workspace owners
 But community/local MCP servers work fine with free Claude Desktop/Code because they run locally on your machine.
 The Enterprise requirement only applies to the official hosted Asana MCP server, not to local community implementations!
-
 
 ## Notion MCP for Claude Code
 
@@ -46,3 +44,22 @@ Run
 $ npx playwright install
 $ claude mcp add playwright -- cmd /c npx -y @playwright/mcp
 ```
+
+To run it headless, use the `--headless` in your `~/.claude.json`, like this:
+
+```
+"mcpServers": {
+    "playwright": {
+        "type": "stdio",
+        "command": "npx",
+        "args": [
+        "-y",
+        "@playwright/mcp",
+        "--headless"
+        ],
+        "env": {}
+    },
+```
+
+If you want to run a certain chromium profiile, you can fire it up once non headless, sign into
+your google account, and then afterwards run it headless.
