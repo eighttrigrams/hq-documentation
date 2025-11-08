@@ -17,3 +17,7 @@ Goals
 
 - [mcps](./mcps.md) MCPs for Claude Code
   - See also [eighttrigrams/clojure-claude-and-mcp-knowledge](https://github.com/eighttrigrams/clojure-claude-and-mcp-knowledge/blob/master/README.md)
+
+### Recipes
+
+- [link](./recipes/vscode-project-folders.md) How to setup VSCode project folders
