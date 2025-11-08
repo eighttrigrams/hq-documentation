@@ -25,4 +25,6 @@ Create a VSCode project and
 
 Store the project file in the top directory.
 
+The search function of VSCode, in combination with the gitignores, depends on the repositories being added individually.
+
 Claude Code VSCode plugin will use as its working dir the first listed folder of the sidebar explorer.
