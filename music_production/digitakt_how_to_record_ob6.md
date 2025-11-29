@@ -1,0 +1,26 @@
+# Digitakt II - How to Record loops from the OB-6 synth
+
+- OB6
+    - Set Midi control to On
+    - Midi Sysex: Mid
+    - Midi Out: Mid
+    - Set Midi Channel to 9
+    - Set Param Xmit to CC
+    - Set Param Rcv to CC
+- Digitakt Global
+- Goto project settings -> Midi Config -> Channels
+- Select Track 9 Channel -> 9 (is not by default enabled, only the first 8)
+- Pattern
+    - Select an empty pattern or
+    - Copy a pattern (PTN+TRIG+COPY - PTN+TRIG+PST)
+    - (Clear track 9 MIDI settings () TRK+TRIG9+CLR)
+    - Select Track 9 (TRIG9),
+        - Goto SRC - Func press first encoder to enable, then select Midi Chan 9 
+        - Goto Mixer Page 5 (Ext Mix), fade IN LR slider up (you should hear OB6)
+        - Goto FLTR Page for Track9 - Func Click first encoder, and the X should become a rotary, saying Val1
+        - Goto 2nd FLTR Page - Func Click first encoder (long) - Midi learn, rotate know on OB6
+- Record a loop alongside playing drums
+    - Hit the keys on the OB6
+    - Turn the rotary on the FLTR page for automation
+    - Notes and CCs get recorded
+    - Now record the Audio (goto recording menu)
