@@ -15,3 +15,4 @@ To Ableton Live
 - To record, click on the play button of a scene
 - Before (!) the end of two bars click that play button of the scene again
     - that way, it stops right at 4 beats for all the clips
+- Note that also the inputs can be directly recorded which is good for melodic, non-repetetive, material
