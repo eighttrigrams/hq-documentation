@@ -24,3 +24,8 @@
     - Turn the rotary on the FLTR page for automation
     - Notes and CCs get recorded
     - Now record the Audio (goto recording menu)
+- Play the clip alongside the rest
+- Let's say you've put it to TRK12: go to that track
+- Set a trig on the TRIG1
+- Set LEN param on the trig param to INF
+- Set Hold time (enc B) to Note
