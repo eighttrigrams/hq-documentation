@@ -11,4 +11,5 @@
     - Enter GRID RECORDING mode by pressing [RECORD]
     - Select the track you want to clear using [TRK] + [TRIG 1-16]
     - Press [FUNC] + [PLAY] to clear all the trigs on that track
+        - It says "clear Track sequence"
 - Erase trigs in real-time: While in LIVE RECORDING mode, press [NO] + [TRIG] key(s) to erase trigs on specific tracks as the pattern plays.
