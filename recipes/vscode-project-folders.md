@@ -33,6 +33,12 @@ Claude Code VSCode plugin will use as its working dir the first listed folder of
 
 Note that Claude native plugin takes first directory.
 
+## MCPs
+
+Note that when you launch Claude in any subdir of the basedir, and that subdir is ***not a Git repository***,
+the MCP configuration is shared between the basedir and that subdirectory. That is, any MCP that is added
+(via `claude mcp add`) to either is shown in the other. To specify the availability of an MCP, say only for the subdir, configuring it via an `.mcp.json` is necessary.
+
 ## Clojure-LSP automatically set on
 
 It is important for some reason that Clojure LSP via Calva detects `frontend` here
