@@ -2,11 +2,16 @@
 
 ## Clear
 
+- Clear Track preset
+    - Select a track
+    - Press [FUNC] + [PLAY]
 - Clear a single track page only
     - In recording mode
     - Select a Track
     - Press [PAGE] to select the page
     - then press [PAGE] + [PLAY] to clear just that page **of the track**
+- Clear the sequence (all trigs, notes)
+    - Press [FUNC] + [PLAY] when not in grid recording mode
 - To clear all trigs (notes) on a single track:
     - Enter GRID RECORDING mode by pressing [RECORD]
     - Select the track you want to clear using [TRK] + [TRIG 1-16]
